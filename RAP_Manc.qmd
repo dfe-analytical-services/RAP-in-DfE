@@ -117,8 +117,8 @@ To boost awareness, last year I ran the DfE RAP knowledge-share series. Using in
 
 - Worked with a working group within the DfE to plan the future of RAP in DfE against the [cross-government RAP strategy](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/). 
 - Ensured the group had a variety of analytical areas and professions. 
-
-This also gave RAP visibility with the SLT, and I had meetings with them to discuss the draft before it was published.
+- The DfT was the inspiration for ours! We liked how it laid out the goals from the strategy next to the department's planned actions/activities. 
+- This also gave RAP visibility with the SLT, and I had meetings with them to discuss the draft before it was published.
 
 The Dfe published our [RAP implementation plan](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/departmental-rap-plans/dfe-rap-strategy-implementation-plan-2023/) at the end of 2023. 
 
