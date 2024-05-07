@@ -57,7 +57,22 @@ dfeR should provide simple code to make it easier for analysts to work effective
 
 ## Intro to the team
 
-## EES & data screener
+## Explore education statistics (EES)
+
+[Explore education statistics (EES)](https://explore-education-statistics.service.gov.uk/) was launched in 2020. This is our own statistics publication platform that requires common open data standards for all published data and statistics. EES concentrates on open data standards, whilst also stripping out a large proportion of the typical statistics production process (i.e. formatted Excel tables). The open data is also easily reusable for other services or dashboards.
+
+![](EES-webpage.png){height="12em"}
+
+## EES data screener
+
+:::: {.columns}
+::: {.column width=80%}
+![](EES_data_Screener.png){height=40%}
+:::
+::: {.column width=20%}
+Before being uploaded to EES, data must be run through an internal data screener. The screener runs a multitude of automated tests against the data files, including checking ONS geographies.
+:::
+::::
 
 ## Internal standards (good, great and best)
 
