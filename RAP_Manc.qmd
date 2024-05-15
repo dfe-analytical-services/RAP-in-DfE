@@ -32,6 +32,8 @@ format:
 :::
 ::: {.column width=20%}
 Before being uploaded to EES, data must be run through an internal data screener. The screener runs a multitude of automated tests against the data files, including checking ONS geographies.
+
+[EES data screener](https://rsconnect/rsc/dfe-published-data-qa/)
 :::
 ::::
 
