@@ -22,8 +22,6 @@ format:
 
 [Explore education statistics (EES)](https://explore-education-statistics.service.gov.uk/) was launched in 2020. This is our own statistics publication platform that requires common open data standards for all published data and statistics. EES concentrates on open data standards, whilst also stripping out a large proportion of the typical statistics production process (i.e. formatted Excel tables). The open data is also easily reusable for other services or dashboards.
 
-DELETE ME
-
 ![](EES-webpage.png){height="12em"}
 
 ## EES data screener
@@ -35,17 +33,14 @@ DELETE ME
 ::: {.column width=20%}
 Before being uploaded to EES, data must be run through an internal data screener. The screener runs a multitude of automated tests against the data files, including checking ONS geographies.
 
-DELETE ME
-
 [EES data screener](https://rsconnect/rsc/dfe-published-data-qa/)
+
 :::
-::::
+:::
 
 ## Internal standards (good, great and best)
 
 In DfE we have our own internal RAP standards of good, great and best practice based on what we know about the analysts and the work in our department. All of the guidance is available on our public [DfE analysts' guide site](https://dfe-analytical-services.github.io/analysts-guide/).
-
-DELETE ME
 
 <html>
 <head>
@@ -61,7 +56,22 @@ We also got *RAP development plans* from all publication teams and are starting 
 
 ## Self-assessment tool
 
-## RAP knowledge-shares
+::: columns
+::: {.column width="100%"}
+- [Internally hosted R Shiny app](https://rsconnect/rsc/publication-self-assessment/) for statistics publication teams and team leaders to assess progress towards Good, Great and Best RAP standards.
+
+- Teams are encouraged to update their self assessments regularly 
+
+- Recently added a progress monitoring tab for individual publications and G6s.
+
+- Can also use it to identify teams that might need guidance and targeted support
+
+[![](self-assessment-tool.png){fig-align="center" height="9.2em"}]()
+
+:::
+:::
+
+## RAP Knowledge Shares
 
 To boost awareness, last year I ran the DfE RAP knowledge-share series. Using information from the self-assessment tool, I planned a series which focused on a new topic each month, with 2-3 volunteers speaking in each session to show their own examples of good, great and best practice! 
 
@@ -80,9 +90,69 @@ To boost awareness, last year I ran the DfE RAP knowledge-share series. Using in
 :::
 ::::
 
-## Champions network 
+## RAP survey
+
+::: columns
+::: {.column width="60%"}
+
+- Department-wide survey
+- 135 responses
+- All analysts of any profession eligible to respond
+- Responses for each area analysed by their RAP Champion (more on that coming up!)
+- Used to work out how to move forward with implementation
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="30%"}
+
+[![](rap-survey-1.png){fig-align="right"}]()
+
+[![](rap-survey-2.png){fig-align="right"}]()
+
+
+## Champions network
+::: columns
+::: {.column width="50%"}
+
+- We currently have 20 RAP champions across the department
+- Varying professions and based across different groups/areas
+- Not all champions work in areas with statistics production teams
+- Monthly meetings for discussions about progress, presenting results, knowledge sharing and training so we can work towards a shared goal
+- All champions have the opportunity to input into next steps 
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+[![](rap-champs-1.png){fig-align="right" height="10.2em" width="13.2em"}]()
+[![](rap-champs-2.png){fig-align="right" height="9.2em" width="13.2em"}]()
+:::
+:::
 
 ## Freestyle RAP sessions
+
+::: columns
+::: {.column width="50%"}
+
+- Started as a result of RAP survey responses and suggestions from champions 
+- Monthly drop-in sessions for people to ask for RAP help
+- Loads of varied questions!
+- Any analyst can join
+- Each month we have a different RAP champion involved to build skills
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+[![](freestyle-rap.png){fig-align="right"}]()
+:::
+:::
 
 ## Implementation plan
 
@@ -93,6 +163,7 @@ To boost awareness, last year I ran the DfE RAP knowledge-share series. Using in
 
 The Dfe published our [RAP implementation plan](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/departmental-rap-plans/dfe-rap-strategy-implementation-plan-2023/) at the end of 2023. 
 
+
 ## Where we are at & future plans
 
 ::::{.columns}
@@ -100,6 +171,7 @@ The Dfe published our [RAP implementation plan](https://analysisfunction.civilse
 The implementation plan, combined with everything else outlined, has helped us assess where we are at now and where we want to go. 
 
 :::{.column width=50%}
+
 ### So far
 
 * All publication teams know our internal standards and have written and submitted a plan to meet them. 
@@ -109,6 +181,7 @@ The implementation plan, combined with everything else outlined, has helped us a
 
 :::
 :::{.column width=50%}
+
 ### Future plans
 
 * Continue to increase the number of teams meeting and exceeding our baseline!
@@ -119,5 +192,36 @@ The implementation plan, combined with everything else outlined, has helped us a
 
 :::
 ::::
+
 ## Hints and tips
 
+::: columns
+::: {.column width="60%"}
+
+- Build an internal champions network!
+- Have a clear argument for WHY we're doing this
+- Get line managers on board
+- Make communications fun and engaging (emojis work well)
+- Focus on RAP as proportionate to the project
+- If teams are overwhelmed, encourage focus on one element at a time 
+- Keep best practice examples to share
+- Make what you're doing as visible as possible
+- Have your own internal standards
+- Use RAP as best practice guidance rather than a binary
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+[![](charlotte-and-jen.jpg){fig-align="right"}]()
+:::
+:::
+
+## Thanks for listening! 
+
+::: columns
+::: {.column width="100%"}
+Any questions? 
+:::
+:::
