@@ -103,7 +103,7 @@ Before being uploaded to EES, data must be run through an internal data screener
 =======
 ## Internal standards (good, great and best)
 
-At the DfE we have our own internal RAP standards of good, great and best practice based on what we know about the analysts and the work in our department. All of the guidance is available on our public [DfE analysts' guide site](https://dfe-analytical-services.github.io/analysts-guide/).
+In DfE we have our own internal RAP standards of good, great and best practice based on what we know about the analysts and the work in our department. All of the guidance is available on our public [DfE analysts' guide site](https://dfe-analytical-services.github.io/analysts-guide/).
 
 <html>
 <head>
