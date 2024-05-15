@@ -22,6 +22,8 @@ format:
 
 [Explore education statistics (EES)](https://explore-education-statistics.service.gov.uk/) was launched in 2020. This is our own statistics publication platform that requires common open data standards for all published data and statistics. EES concentrates on open data standards, whilst also stripping out a large proportion of the typical statistics production process (i.e. formatted Excel tables). The open data is also easily reusable for other services or dashboards.
 
+DELETE ME
+
 ![](EES-webpage.png){height="12em"}
 
 ## EES data screener
@@ -33,6 +35,8 @@ format:
 ::: {.column width=20%}
 Before being uploaded to EES, data must be run through an internal data screener. The screener runs a multitude of automated tests against the data files, including checking ONS geographies.
 
+DELETE ME
+
 [EES data screener](https://rsconnect/rsc/dfe-published-data-qa/)
 :::
 ::::
@@ -40,6 +44,8 @@ Before being uploaded to EES, data must be run through an internal data screener
 ## Internal standards (good, great and best)
 
 In DfE we have our own internal RAP standards of good, great and best practice based on what we know about the analysts and the work in our department. All of the guidance is available on our public [DfE analysts' guide site](https://dfe-analytical-services.github.io/analysts-guide/).
+
+DELETE ME
 
 <html>
 <head>
