@@ -16,45 +16,6 @@ format:
     logo: DfE_logo_landscape.png
 ---
 
-## The DfE R packages
-
-:::: {.columns}
-::: {.column width="70%"}
-The Statistics Development Team are developing packages for use in R to support the analytical community in having common useful functions readily available for their work. 
-
-They're published on the [DfE Analytical Services GitHub page](https://github.com/dfe-analytical-services) and are ready to use.
-
-:::: {.columns}
-::: {.column width="48%"}
-[![](dfer-logo.png){height="7.2em"}](https://github.com/dfe-analytical-services/dfeR)
-:::
-::: {.column width="48%"}
-[![](dfeshiny-logo.png){height="7.2em"}](https://github.com/dfe-analytical-services/dfeshiny)
-:::
-::::
-In this coffee and coding, I'll give a brief introduction to what the scope of these packages is, how to install them, demo some of their functionality and tell you how you can help!
-
-:::
-::: {.column width="30%"}
-[![](dfe-analytical-services.png){fig-align="right"}](https://github.com/dfe-analytical-services)
-:::
-::::
-
-
-## [dfeR](https://github.com/dfe-analytical-services/dfeR)
-
-:::: {.columns}
-::: {.column width=20%}
-[![](dfer-logo.png){height="7.2em"}](https://github.com/dfe-analytical-services/dfeR)
-:::
-::: {.column width=80%}
-
-### Succinct functions that saves coding effort and make analysts lives easier!
-
-dfeR should provide simple code to make it easier for analysts to work effectively and consistently.
-:::
-::::
-
 ## Intro to the team
 
 ## EES & data screener
@@ -63,13 +24,121 @@ dfeR should provide simple code to make it easier for analysts to work effective
 
 ## Self-assessment tool
 
+::: columns
+::: {.column width="100%"}
+- [Internally hosted R Shiny app](https://rsconnect/rsc/publication-self-assessment/) for statistics publication teams and team leaders to assess progress towards Good, Great and Best RAP standards.
+
+- Teams are encouraged to update their self assessments regularly 
+
+- Recently added a progress monitoring tab for individual publications and G6s.
+
+- Can also use it to identify teams that might need guidance and targeted support
+
+[![](self-assessment-tool.png){fig-align="center" height="9.2em"}]()
+
+:::
+:::
+
 ## RAP knowledge-shares
 
-## Champions network 
+## RAP survey
+
+::: columns
+::: {.column width="60%"}
+
+- Department-wide survey
+- 135 responses
+- All analysts of any profession eligible to respond
+- Responses for each area analysed by their RAP Champion (more on that coming up!)
+- Used to work out how to move forward with implementation
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+
+::: {.column width="30%"}
+
+[![](rap-survey-1.png){fig-align="right"}]()
+
+[![](rap-survey-2.png){fig-align="right"}]()
+
+:::
+:::
+
+
+## Champions network
+::: columns
+::: {.column width="50%"}
+
+- We currently have 20 RAP champions across the department
+- Varying professions and based across different groups/areas
+- Not all champions work in areas with statistics production teams
+- Monthly meetings for discussions about progress, presenting results, knowledge sharing and training so we can work towards a shared goal
+- All champions have the opportunity to input into next steps 
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+[![](rap-champs-1.png){fig-align="right" height="10.2em" width="13.2em"}]()
+[![](rap-champs-2.png){fig-align="right" height="9.2em" width="13.2em"}]()
+:::
+:::
+
 
 ## Freestyle RAP sessions
+
+::: columns
+::: {.column width="50%"}
+
+- Started as a result of RAP survey responses and suggestions from champions 
+- Monthly drop-in sessions for people to ask for RAP help
+- Loads of varied questions!
+- Any analyst can join
+- Each month we have a different RAP champion involved to build skills
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+[![](freestyle-rap.png){fig-align="right"}]()
+:::
+:::
 
 ## Implementation plan
 
 ## Hints and tips
 
+::: columns
+::: {.column width="60%"}
+
+- Build an internal champions network!
+- Have a clear argument for WHY we're doing this
+- Get line managers on board
+- Make communications fun and engaging (emojis work well)
+- Focus on RAP as proportionate to the project
+- If teams are overwhelmed, encourage focus on one element at a time 
+- Keep best practice examples to share
+- Make what you're doing as visible as possible
+
+:::
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+[![](charlotte-and-jen.jpg){fig-align="right"}]()
+:::
+:::
+
+## Thanks for listening! 
+
+::: columns
+::: {.column width="100%"}
+Any questions? 
+:::
+:::
