@@ -18,6 +18,12 @@ format:
 
 ## Intro to the team
 
+We are half of the Statistics Development Team. Our purpose is to challenge and support statisticians to be constantly improving themselves, their processes and their products.
+
+![](team-org.png){height="12em" fig-align="center"}
+
+We provide learning and development support for analysts, lead on Reproducible Analytical Pipelines (RAP), and act as the gatekeepers to public statistics dashboards and publications on Explore Education Statistics.
+
 ## Explore education statistics (EES)
 
 [Explore education statistics (EES)](https://explore-education-statistics.service.gov.uk/) was launched in 2020. This is our own statistics publication platform that requires common open data standards for all published data and statistics. EES concentrates on open data standards, whilst also stripping out a large proportion of the typical statistics production process (i.e. formatted Excel tables). The open data is also easily reusable for other services or dashboards.
@@ -92,7 +98,7 @@ To boost awareness, last year I ran the DfE RAP knowledge-share series. Using in
 
 ## RAP survey
 
-::: columns
+::: {.columns}
 ::: {.column width="60%"}
 
 - Department-wide survey
@@ -113,6 +119,8 @@ To boost awareness, last year I ran the DfE RAP knowledge-share series. Using in
 
 [![](rap-survey-2.png){fig-align="right"}]()
 
+:::
+:::
 
 ## Champions network
 ::: columns
